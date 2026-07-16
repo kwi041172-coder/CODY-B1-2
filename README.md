@@ -49,8 +49,10 @@
 | 목표 메시지(한 문장) | BitradeX는 AI 기반 디지털 자산 플랫폼이다. |
 | 화면 구성 (구도/피사체/배경/텍스트 유무) | 와이드샷 / AI 브레인과 디지털 자산 심볼이 빛으로 연결됨 / 블랙 배경 / 중앙에 'AI Digital Asset Platform' 텍스트 |
 | 내레이션 또는 화면 카피 | "AI 기반 디지털 자산 플랫폼." |
-| 사용 도구 + 사용 목적 | Runway Gen-4 + AI 브레인 및 디지털 자산 영상 생성 / After Effects + 데이터 연결 효과 |
-| 입력 프롬프트(원문 그대로) | A futuristic AI brain connected to glowing digital asset symbols through blue data streams, black background, minimal premium design, holographic interface, cinematic lighting, ultra realistic, 4K |
+| 사용 도구 + 사용 목적 | Hailuo AI(무료 플랜) + AI 브레인 및 디지털 자산 영상 생성 / After Effects + 데이터 연결 효과 |
+| 입력 프롬프트(원문 그대로) | A futuristic AI brain connected to glowing digital asset symbols through blue data streams, representing an AI-powered digital asset platform. Wide shot, black background, holographic interface, clean and minimal composition, subtle floating particles, premium technology atmosphere.
+
+premium futuristic branding, black and deep blue color palette, neon blue glow, cinematic lighting, minimal design, ultra realistic, clean composition, high-tech, 4K, 16:9 |
 | 출력 결과 요약(한 줄) | AI와 디지털 자산이 하나의 플랫폼으로 연결되는 모습을 표현한다. |
 | 결과 파일명 | Scene01_AIPlatform.mp4 |
 
@@ -61,8 +63,10 @@
 | 목표 메시지 | AI 기술이 디지털 자산을 더 스마트하게 연결한다. |
 | 화면 구성 | 미디엄샷 / 데이터 네트워크 위로 다양한 디지털 자산 아이콘이 이동 / 미래형 인터페이스 배경 / 중앙에 'SMART · SECURE · GLOBAL' 텍스트 |
 | 내레이션/카피 | "AI가 더 스마트한 연결을 만듭니다." |
-| 사용 도구 + 목적 | Runway Gen-4 + 디지털 네트워크 생성 / After Effects + UI 및 데이터 흐름 효과 |
-| 입력 프롬프트(원문) | Glowing digital asset icons moving through an AI-powered data network, holographic interface, elegant blue neon light, futuristic platform dashboard, premium technology style, ultra realistic, 4K |
+| 사용 도구 + 목적 | Hailuo AI(무료 플랜) + 디지털 네트워크 생성 / After Effects + UI 및 데이터 흐름 효과 |
+| 입력 프롬프트(원문) | Glowing digital asset icons flowing through an AI-powered data network above a futuristic platform interface. Medium shot, holographic dashboard, seamless digital connections, elegant motion, representing smart, secure, and global digital asset technology.
+
+premium futuristic branding, black and deep blue color palette, neon blue glow, cinematic lighting, minimal design, ultra realistic, clean composition, high-tech, 4K, 16:9 |
 | 출력 결과 요약 | AI가 디지털 자산을 실시간으로 연결하는 미래 플랫폼을 표현한다. |
 | 결과 파일명 | Scene02_SmartNetwork.mp4 |
 
@@ -74,7 +78,9 @@
 | 화면 구성 | 정면 클로즈업 / BitradeX 로고와 플랫폼 UI가 함께 등장 / 블랙 배경 / 'AI가 만드는 디지털 자산의 미래' 슬로건 노출 |
 | 내레이션/카피 | "BitradeX. AI가 만드는 디지털 자산의 미래." |
 | 사용 도구 + 목적 | After Effects + 로고 리빌 및 UI 합성 / Premiere Pro + 최종 편집 |
-| 입력 프롬프트(원문) | Premium BitradeX logo reveal with futuristic trading platform interface, elegant blue glow, minimal black background, cinematic lighting, ultra realistic, 4K |
+| 입력 프롬프트(원문) | The BitradeX logo emerging with a futuristic digital platform interface, illuminated by elegant blue light. Front close-up, minimal black background, premium holographic UI, powerful brand reveal, representing the future of AI-powered digital assets.
+
+premium futuristic branding, black and deep blue color palette, neon blue glow, cinematic lighting, minimal design, ultra realistic, clean composition, high-tech, 4K, 16:9 |
 | 출력 결과 요약 | BitradeX 로고와 플랫폼 이미지가 함께 등장하며 브랜드를 각인시킨다. |
 | 결과 파일명 | Scene03_BitradeX_Final.mp4 |
 
@@ -95,7 +101,7 @@
 | 역할 | 사용 도구 | 선택 이유 | 대체 도구 |
 |---|---|---|---|
 | 이미지 생성 | Microsoft Designer (Image Creator) | 무료 사용 가능, 고품질 AI 이미지 생성, 미래·AI 콘셉트 제작에 적합 | Adobe Firefly(무료 플랜), Leonardo AI(무료 플랜) |
-| 비디오 생성/변환 | LTX Studio (무료 플랜) | 이미지를 짧은 시네마틱 영상으로 생성하고 장면별 제작이 쉬움 | Pika(무료 플랜), Hailuo AI(무료 플랜) |
+| 비디오 생성/변환 | Hailuo AI(무료 플랜) | 이미지를 짧은 시네마틱 영상으로 생성하고 장면별 제작이 쉬움 | LTX Studio (무료 플랜), Pika(무료 플랜) |
 | 오디오(BGM/효과음) | Pixabay Music | 저작권 걱정 없이 무료 BGM·효과음 다운로드 가능 | Mixkit, Freesound |
 | 음성(TTS, 선택) | Microsoft Edge TTS | 자연스러운 한국어 음성, 무료 사용 가능 | ElevenLabs(무료 플랜), Google AI Studio TTS(무료 사용량 제공) |
 | 통합 편집 |CapCut Desktop (무료)  | 영상 편집, 자막, 효과, 음악, 색보정까지 한 번에 가능 | DaVinci Resolve(무료), Clipchamp(무료) |
@@ -148,32 +154,14 @@ After Effects (선택)	동일한 네온 블루 글로우 효과와 데이터 스
 ## STEP 1. 이미지 생성 (씬별 키비주얼 만들기)
 
 - **사용 도구**: Microsoft Designer (Image Creator)
-- **생성한 이미지 파일**: 
-
-
-> **대체 도구**:  Adobe Firefly(무료 플랜), Leonardo AI(무료 플랜)
-
+- **생성한 이미지 파일**: 별첨
+- **대체 도구**:  Adobe Firefly(무료 플랜), Leonardo AI(무료 플랜)
 
 ## STEP 2. 비디오 생성 (이미지에 움직임 넣기)
 
-- **사용 도구**: ✍️
-- **생성한 영상 파일**: ✍️ (예: scene01_video.mp4)
-
-> 💡 **추천 도구와 하는 방법**
->
-> **🎥 추천: Pika (pika.art, 무료 크레딧 제공)**
-> 1. pika.art 접속 → 구글 계정 가입
-> 2. 입력창 왼쪽 `이미지 업로드(+)` 버튼 → STEP 1에서 만든 이미지 업로드
-> 3. 프롬프트에 **움직임만** 짧게 영어로 적으세요. 예시:
->    ```
->    steam slowly rising from the coffee cup, subtle camera zoom in,
->    soft light flickering
->    ```
-> 4. 생성 → 다운로드 (씬당 3~4초짜리 클립이 나옵니다)
->
-> **대체 도구**:
-> - **Runway (runwayml.com)**: `Image to Video` 선택 → 이미지 업로드 → 프롬프트 입력. 방법은 Pika와 거의 같아요.
-> - **Kling (klingai.com)**: 대기열이 길 수 있지만 품질이 좋아요.
+- **사용 도구**: Hailuo AI(무료 플랜)
+- **생성한 영상 파일**: 별첨
+- **대체 도구**: LTX Studio (무료 플랜), Pika(무료 플랜)
 >
 > **⚠️ 크레딧 절약 필수 팁 (제약사항!)**
 > - 비디오 생성은 크레딧을 많이 먹어요. **이미지가 100% 마음에 들 때까지 확정한 후** 비디오 변환을 시도하세요.
