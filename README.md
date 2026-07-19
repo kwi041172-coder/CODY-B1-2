@@ -9,8 +9,8 @@
 
 | 산출물 | 파일명 | 완료 |
 |---|---|---|
-| 스토리보드 PDF | ✍️ (예: storyboard_브랜드명.pdf) | ⬜ |
-| 광고 영상 MP4 | ✍️ (예: 브랜드명_ad_10s.mp4) | ⬜ |
+| 스토리보드 PDF | BitradeX_Brand_Advertising_Project.pdf | ⬜ |
+| 광고 영상 MP4 | Scene01_AIPlatform.mp4, Scene01_AIPlatform_v2.mp4, Scene02_SmartNetwork.mp4, Scene03_BitradeX_Final.mp4 | ⬜ |
 | 보너스 1 – 립싱크 | ✍️ | ⬜ 선택 |
 | 보너스 2 – 다른 도구 재제작 | ✍️ | ⬜ 선택 |
 | 보너스 3 – 비율별 버전 | ✍️ | ⬜ 선택 |
@@ -122,28 +122,28 @@ premium futuristic branding, black and deep blue color palette, neon blue glow, 
 |---|---|---|---|
 | 이미지 생성 | Microsoft Designer (Image Creator) | 무료 사용 가능, 고품질 AI 이미지 생성, 미래·AI 콘셉트 제작에 적합 | Adobe Firefly(무료 플랜), Leonardo AI(무료 플랜) |
 | 비디오 생성/변환 | Hailuo AI(무료 플랜) | 이미지를 짧은 시네마틱 영상으로 생성하고 장면별 제작이 쉬움 | LTX Studio (무료 플랜), Pika(무료 플랜) |
-| 오디오(BGM/효과음) | Pixabay Music | 저작권 걱정 없이 무료 BGM·효과음 다운로드 가능 | Mixkit, Freesound |
-| 음성(TTS, 선택) | Microsoft Edge TTS | 자연스러운 한국어 음성, 무료 사용 가능 | ElevenLabs(무료 플랜), Google AI Studio TTS(무료 사용량 제공) |
-| 통합 편집 |CapCut Desktop (무료)  | 영상 편집, 자막, 효과, 음악, 색보정까지 한 번에 가능 | DaVinci Resolve(무료), Clipchamp(무료) |
+| 오디오(BGM/효과음) | Suno AI (무료 플랜) | 프롬프트를 입력해 브랜드 콘셉트에 맞는 맞춤형 배경음악을 무료로 생성 가능 | Udio(무료 플랜), Riffusion(무료 플랜) |
+| 음성(TTS, 선택) | TTSMaker (무료) | 한국어 음성을 MP3로 쉽게 생성하고 다운로드 가능, 초보자도 사용하기 쉬움 | Microsoft Edge TTS, ElevenLabs(무료 플랜) |
+| 통합 편집 | CapCut Desktop (무료)  | 영상 편집, 자막, 효과, 음악, 색보정까지 한 번에 가능 | DaVinci Resolve(무료), Clipchamp(무료) |
 
 ## 1-7. 일관성 유지 전략 (권장)
 
 - **고정한 요소**:
-스타일 : 미래지향적(Futuristic), 프리미엄(Premium), 미니멀(Minimal)
-컬러 팔레트 : Black · Deep Blue · Neon Blue
-조명 : Cinematic Lighting, Soft Glow
-분위기 : AI, Digital, High-tech, Clean
-카메라 무드 : 부드러운 슬로우 카메라 무빙
-텍스트 스타일 : 화이트 산세리프(Sans-serif) 폰트
-브랜드 컬러 : BitradeX 블루 계열 유지
-화면 비율 : 16:9 (1920×1080)
-영상 길이 : Scene당 3~4초
-프롬프트 공통 키워드 :premium futuristic branding, black and deep blue color palette, neon blue glow, cinematic lighting, minimal design, ultra realistic, clean composition, high-tech, 4K, 16:9 
+  스타일 : 미래지향적(Futuristic), 프리미엄(Premium), 미니멀(Minimal)
+ 컬러 팔레트 : Black · Deep Blue · Neon Blue
+ 조명 : Cinematic Lighting, Soft Glow
+ 분위기 : AI · Digital · High-tech · Clean
+ 카메라 무드 : 부드러운 슬로우 카메라 무빙
+ 텍스트 스타일 : 화이트 산세리프(Sans-serif) 폰트
+ 브랜드 컬러 : BitradeX 블루 계열 유지
+ 화면 비율 : 16:9 (1920×1080)
+ 영상 길이 : Scene당 3~4초
+ 프롬프트 공통 키워드 : premium futuristic branding, black and deep blue color palette, neon blue glow, cinematic lighting, minimal design, ultra realistic, clean composition, high-tech, 4K, 16:9
 - **사용한 기능**: 
-Microsoft Designer	동일한 프롬프트 스타일 반복 사용
-LTX Studio	동일한 이미지 스타일 유지, 카메라 무빙 일관성 유지
-CapCut	동일한 폰트, 색상, 전환 효과, BGM 적용
-After Effects (선택)	동일한 네온 블루 글로우 효과와 데이터 스트림 효과 적용
+ Microsoft Designer : 동일한 스타일 프롬프트로 모든 씬의 이미지 스타일 유지
+ Hailuo AI : 동일한 카메라 무빙과 공통 프롬프트를 적용하여 영상의 분위기와 움직임 유지
+ Suno AI : 동일한 브랜드 콘셉트의 프롬프트를 사용하여 영상과 어울리는 BGM 생성
+ CapCut Desktop : 동일한 폰트, 자막, 색상, 전환 효과, BGM, 내레이션을 적용하여 브랜드 아이덴티티를 일관되게 표현
 
 ## 1-8. 크레딧 절약 전략 (⚠️ 최소 1개 선택 필수)
 
@@ -160,12 +160,7 @@ After Effects (선택)	동일한 네온 블루 글로우 효과와 데이터 스
     Black · Deep Blue · Neon Blue 컬러와 Cinematic Lighting, Futuristic AI 분위기를 일관되게 유지한다.
     동일한 스타일을 유지해 재생성 횟수를 최소화하고, 브랜드의 통일된 이미지를 완성한다.
 
-## 1-9. PDF로 변환하기
-
-> 💡 **하는 방법 (3가지 중 택 1)**
-> 1. **Notion**: 위 내용을 Notion에 붙여넣기 → 우측 상단 `⋯` → Export → PDF
-> 2. **구글 문서**: 내용 작성 → 파일 → 다운로드 → PDF
-> 3. **VS Code**: "Markdown PDF" 확장 설치 → 우클릭 → Export (pdf)
+## 1-9. PDF로 변환하기 : BitradeX_Brand_Advertising_Project.pdf
 
 ---
 
@@ -174,53 +169,26 @@ After Effects (선택)	동일한 네온 블루 글로우 효과와 데이터 스
 ## STEP 1. 이미지 생성 (씬별 키비주얼 만들기)
 
 - **사용 도구**: Microsoft Designer (Image Creator)
-- **생성한 이미지 파일**: 별첨
-- **대체 도구**:  Adobe Firefly(무료 플랜), Leonardo AI(무료 플랜)
+- **생성한 이미지 파일**: Scene01_AIPlatform.png, Scene01_AIBrain.png, Scene02_SmartNetwork.png, Scene03_BitradeX_Final.png 
 
 ## STEP 2. 비디오 생성 (이미지에 움직임 넣기)
 
 - **사용 도구**: Hailuo AI(무료 플랜)
-- **생성한 영상 파일**: 별첨
-- **대체 도구**: LTX Studio (무료 플랜), Pika(무료 플랜)
->
-> **⚠️ 크레딧 절약 필수 팁 (제약사항!)**
-> - 비디오 생성은 크레딧을 많이 먹어요. **이미지가 100% 마음에 들 때까지 확정한 후** 비디오 변환을 시도하세요.
-> - 움직임 프롬프트는 단순할수록 실패가 적어요: `slow zoom in`, `camera panning left`, `gentle wind` 같은 한 가지 동작만!
-> - 크레딧이 부족하면? **정지 이미지 그대로 쓰고 편집 앱(CapCut)에서 줌/패닝 효과**를 넣어도 됩니다. (제약사항에서 허용하는 전략이에요)
+- **생성한 영상 파일**: Scene01_AIPlatform.mp4, Scene01_AIPlatform_v2.mp4, Scene02_SmartNetwork.mp4, Scene03_BitradeX_Final.mp4
 
 ## STEP 3. 오디오 생성 (BGM / 내레이션 / 효과음 중 1개 이상 필수)
 
 ### 3-1. 배경음악(BGM)
 
-- **사용 도구**: ✍️
-- **생성 파일**: ✍️ (예: bgm.mp3)
-- **입력 프롬프트**: ✍️
-
-> 💡 **추천: Suno (suno.com, 무료 크레딧 제공)**
-> 1. suno.com 접속 → 가입 → `Create` 클릭
-> 2. `Instrumental`(가사 없음) 토글을 **켜세요** (광고 BGM은 가사 없는 게 편집하기 쉬워요)
-> 3. 프롬프트 예시:
->    ```
->    warm acoustic morning cafe music, gentle piano and guitar,
->    cozy and uplifting, 10 seconds intro feeling
->    ```
-> 4. 생성된 곡 다운로드 → 편집 때 앞부분 10초만 잘라 쓰면 됩니다.
->
-> **대체 도구**: Udio, Stable Audio, AIVA
+- **사용 도구**: Suno AI (무료 플랜)
+- **생성 파일**: BitradeX_BGM.mp3
+- **입력 프롬프트**: Futuristic, Cinematic, Corporate, AI Technology, Ambient, Premium, Minimal, Electronic, High-Tech, Deep Blue, Inspirational 
 
 ### 3-2. 내레이션 (TTS, 선택이지만 완성도 UP)
 
-- **사용 도구**: ✍️
-- **생성 파일**: ✍️ (예: narration.mp3)
-- **내레이션 대본**: ✍️
-
-> 💡 **추천: ElevenLabs (elevenlabs.io, 무료 플랜 있음)**
-> 1. 가입 → `Text to Speech` 메뉴
-> 2. 목소리 선택 (한국어 지원 목소리 선택 가능)
-> 3. 대본 입력: 예) "당신의 아침을 깨우는 첫 모금. 새벽로스터."
-> 4. Generate → 다운로드
->
-> **대체 도구**: 타입캐스트(typecast.ai, 한국어 특화), 구글 TTS, 클로바더빙
+- **사용 도구**: TTSMaker (무료)
+- **생성 파일**: BitradeX_Narration.mp3
+- **내레이션 대본**: AI가 만드는 디지털 자산의 미래, BitradeX.
 
 ## STEP 4. 통합 편집 (CapCut으로 하나의 영상 만들기)
 
