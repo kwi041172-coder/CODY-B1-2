@@ -11,7 +11,7 @@
 |---|---|---|
 | 스토리보드 PDF | BitradeX_Brand_Advertising_Project.pdf | ⬜ |
 | 광고 영상 MP4 | BitradeX_Brand_Advertising_Final.mp4 | ⬜ |
-| 보너스 1 – 립싱크 | ✍️ | ⬜ 선택 |
+| 보너스 1 – 립싱크 | BitradeX_AI_Presenter.mp4 | ⬜ 선택 |
 | 보너스 2 – 다른 도구 재제작 | ✍️ | ⬜ 선택 |
 | 보너스 3 – 비율별 버전 | ✍️ | ⬜ 선택 |
 
@@ -212,10 +212,10 @@ premium futuristic branding, black and deep blue color palette, neon blue glow, 
 
 # 3️⃣ 보너스 1 – 립싱크(Lip-sync) 적용 (선택)
 
-- **사용 도구**: ✍️
-- **발화 대사**: ✍️
-- **결과 파일명**: ✍️ (예: bonus1_lipsync.mp4)
-- **어떤 씬에 추가했나**: ✍️
+- **사용 도구**: HeyGen (무료 체험)
+- **발화 대사**: BitradeX. AI가 만드는 디지털 자산의 미래.
+- **결과 파일명**: BitradeX_AI_Presenter.mp4
+- **어떤 씬에 추가했나**: Scene 3 마지막 브랜드 소개 장면
 
 > 💡 **하는 방법 (3단계)**
 >
